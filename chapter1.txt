@@ -1,1 +1,7 @@
 "It was so cold that I can't even type".
+Git init 
+Git add . 
+Git commit -m ""
+Git log 
+Git status
+Git checkout filename // goes to the last version that was committed in my repository .
